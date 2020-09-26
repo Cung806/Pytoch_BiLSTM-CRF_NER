@@ -1,0 +1,2 @@
+pytorch版本的BILSTM和BILST+CRF模型的NER实现，使用的是jupyter_notebook,直接修改数据集的路径运行即可。
+由于没有调优，在微博数据集上达到的F值只有0.49左右。
